@@ -1,0 +1,2 @@
+# Nobel Prize Analysis
+ The Nobel Prize Analysis app is an IPython Notebook-based tool designed to analyze Nobel Prize data. With this app, you can load Nobel Prize datasets, manipulate the data using pandas, and visualize the results using libraries such as matplotlib ,etc. It provides functionalities to explore the dataset, perform data analysis, and create visualizations. You can use this app to gain insights into Nobel Prize winners, categories, trends, and other related information.
